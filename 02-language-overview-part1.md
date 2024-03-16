@@ -1,10 +1,8 @@
-> 原文地址：<https://www.openmymind.net/learning_zig/language_overview_1>
+# Descripción general del idioma - Parte 1
 
-# 语言概述 - 第 1 部分
+Zig es un lenguaje compilado fuertemente tipado. Admite genéricos (parametrización polimórfica), tiene potentes capacidades de metaprogramación en tiempo de compilación y **no incluye** un recolector de basura. Mucha gente considera que Zig es una alternativa moderna a C. Como tal, la sintaxis del lenguaje es similar a la de C. Estamos hablando de declaraciones terminadas en punto y coma y bloques delimitados por llaves.
 
-Zig 是一种强类型编译语言。它支持泛型，具有强大的编译时元编程功能，并且不包含垃圾收集器。许多人认为 Zig 是 C 的现代替代品。因此，该语言的语法与 C 类似，比较明显的就是以分号结尾的语句和以花括号分隔的块。
-
-Zig 代码如下所示：
+Así es como se ve el código Zig:
 
 ```zig
 const std = @import("std");

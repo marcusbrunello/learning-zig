@@ -1,15 +1,15 @@
-# 目录
+# Índice
 
-[简介](README.md)
+[Introducción](README.md)
 
-- [前言](00-preface.md)
-- [安装 Zig](01-installing-zig.md)
-- [语言概览 -- 第一部分](02-language-overview-part1.md)
-- [语言概览 -- 第二部分](03-language-overview-part2.md)
-- [编码风格](04-style-guide.md)
-- [指针](05-pointers.md)
-- [栈内存](06-stack-memory.md)
-- [堆内核与分配器](07-heap-memory-and-allocator.md)
-- [泛型](08-generics.md)
-- [实战](09-coding-in-zig.md)
-- [总结](10-conclusion.md)
+- [Prefacio](00-preface.md)
+- [Instalación](./01-installing-zig.md)
+- [Generalidades del lenguaje - Parte 1](./02-language_overview_part_1.md)
+- [Generalidades del lenguaje - Parte 2](./03-language_overview_part_2.md)
+- [Convenciones de estilo](./04-style_guide.md)
+- [Punteros](./05-pointers.md)
+- [El stack](./06-stack_memory.md)
+- [Memoria dinámica y asignación de memoria](./07-heap_memory_and_allocators.md)
+- [Genéricos (polimorfismo paramétrico)](./08-generics.md)
+- [Con las manos en el código Zig](./09-coding_in_zig.md)
+- [Conclusión](./10-conclusion.md)

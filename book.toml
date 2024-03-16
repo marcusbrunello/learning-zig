@@ -1,14 +1,14 @@
 [book]
-title = "学习 Zig"
-description = "Learning Zig 中文翻译"
-authors = ["ZigCC"]
-language = "zh-CN"
+title = "Aprendiendo Zig"
+description = "Learning Zig by Karl Seguin"
+authors = [""]
+language = "es-AR"
 multilingual = false
 src = "."
 
 [output.html]
-git-repository-url = "https://github.com/zigcc/learning-zig"
-edit-url-template = "https://github.com/zigcc/learning-zig/edit/main/{path}"
+git-repository-url = "https://github.com/marcusbrunello/learning-zig"
+edit-url-template = "https://github.com/marcusbrunello/learning-zig/edit/main/{path}"
 additional-js = ["static/zig-hl.js"]
 additional-css = ["static/last-changed.css"]
 site-url = "/learning-zig/"
